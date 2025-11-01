@@ -1,0 +1,8 @@
+# Ignorar pastas de cache/configuração do Visual Studio
+.vs/
+# Ignorar binários de build (se for um projeto .NET/C#)
+[Bb]in/
+[Oo]bj/
+# Ignorar outros arquivos temporários/configurações do usuário
+*.user
+*.suo
